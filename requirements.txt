@@ -1,0 +1,7 @@
+Flask>=3.0,<4
+requests>=2.28
+openpyxl>=3.1
+pytest>=8.0
+waitress>=3.0
+# Opcional — solo si se usa PostgreSQL vía DATABASE_URL (ver config.py):
+# psycopg[binary]>=3.1

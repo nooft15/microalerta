@@ -1,0 +1,19 @@
+{
+  "name": "MicroAlerta — Monitoreo comunitario del aire",
+  "short_name": "MicroAlerta",
+  "description": "Monitoreo ciudadano de partículas tipo microplástico en el aire del Desierto de Atacama y Copiapó, con ciencia escolar y autocuidado.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#15181B",
+  "theme_color": "#1E88E5",
+  "lang": "es",
+  "categories": ["science", "health", "education"],
+  "icons": [
+    { "src": "/static/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/static/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/static/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

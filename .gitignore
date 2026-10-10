@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+microalerta.db
+static/uploads/*
+!.gitkeep
+.pytest_cache/
+data/*.xlsx
